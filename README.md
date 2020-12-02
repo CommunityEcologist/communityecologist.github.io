@@ -1,5 +1,3 @@
-<link href="https://github.com/CommunityEcologist/communityecologist.github.io/blob/main/newsprint.css" rel="stylesheet"></link>
-
 ### Welcome!
 
 **Shinichi Tatsumi, Ph.D.** （辰巳 晋一）
